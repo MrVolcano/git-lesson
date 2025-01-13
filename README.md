@@ -1,5 +1,5 @@
 # git-lesson
-mt first git respository
+The unicorn and the lorry
 
 
 Red lorry
