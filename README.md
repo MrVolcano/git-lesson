@@ -1,5 +1,5 @@
 # git-lesson
-mt first git respository
+The unicorn and the lorry
 
 
 Red lorry
@@ -7,3 +7,4 @@ Yellow lorry
 Blue lorry
 Green lorry
 Mauve lorry
+Rainbow lorry
