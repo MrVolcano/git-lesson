@@ -1,5 +1,5 @@
 # git-lesson
-The unicorn and the lorry
+The unicorn and the lorry and teh pony
 
 
 Red lorry
