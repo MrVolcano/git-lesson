@@ -7,3 +7,4 @@ Yellow lorry
 Blue lorry
 Green lorry
 Mauve lorry
+Rainbow lorry
